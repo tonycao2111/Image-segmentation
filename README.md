@@ -1,2 +1,2 @@
 # Image-segmentation
-notes and examplesf
+notes and examples
